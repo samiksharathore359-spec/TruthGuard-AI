@@ -1,4 +1,3 @@
-# TruthGuard-AI
 # TruthGuard Website — single-user test package
 
 This is a separate website code package based on the locally supplied TruthGuard V3 website and the Project 1.1.0 app updates. It has not been deployed to an existing live site. No personal database, private backups, APK signing keys or passwords are included.
